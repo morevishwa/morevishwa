@@ -118,7 +118,7 @@
 
   <h2> 📫 How to reach me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
   
-<a href = 'www.linkedin.com/in/vishwajeet-more-5085ba212' target="_blank"> <img  align= 'center' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = 'https://www.linkedin.com/in/vishwajeet-more-5085ba212/' target="_blank"> <img  align= 'center' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = 'https://github.com/morevishwa' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br>
