@@ -27,28 +27,6 @@
 💞️ I’m looking for opportunities in organization as a Full Stack (MERN), FrontEnd, BackEnd, React, Node.Js devloper roles
   
 
-<h2> Projects i worked on <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> </h2>
-  <ul>
-  <li>
-<a href="https://github.com/CodEsHiVaz/stoic-sack-3017_full_stack_MERN_project" target="_blank">Stoic-sack-3017_full_stack_MERN_project </a>
-</li>
-  <li>
-<a href="https://github.com/CodEsHiVaz/Project-Tifrac" target="_blank">Hackathon - TIFRAC </a>
-</li>
-  <li>
-<a href="https://github.com/CodEsHiVaz/cw-4-stylecraze-project-repo" target="_blank">Stylecraze</a>
-</li>
-  <li>
-<a href="https://github.com/CodEsHiVaz/kfc-clone-react" target="_blank">Kfc-Clone-React</a>
-</li>
-  <li>
-<a href="https://github.com/CodEsHiVaz/straberrynet_cw_project" target="_blank">Straberrynet_cw_project</a>
-</li>
-  <li>
-<a href="https://github.com/CodEsHiVaz/FreshlyCloning_1st_cw_project" target="_blank">Freshly_Cloning_1st_cw_project</a>
-</li>
-</ul>
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -141,10 +119,8 @@
 
   <h2> 📫 How to reach me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
   
-<a href = 'https://www.linkedin.com/in/shivaji-zirpe-92650919b/' target="_blank"> <img  align= 'center' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = 'https://medium.com/@mobiotech11' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://shivaji-zirpe-portpholio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" align= 'center' alt="Website"/></a>
-<a href = 'https://github.com/CodEsHiVaz/' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<a href = 'www.linkedin.com/in/vishwajeet-more-5085ba212/' target="_blank"> <img  align= 'center' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = 'https://github.com/morevishwa/' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br>
 <br>
