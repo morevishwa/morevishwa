@@ -119,17 +119,12 @@
 
   <h2> 📫 How to reach me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
   
-<a href = 'www.linkedin.com/in/vishwajeet-more-5085ba212/' target="_blank"> <img  align= 'center' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = 'https://github.com/morevishwa/' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<a href = 'www.linkedin.com/in/vishwajeet-more-5085ba212' target="_blank"> <img  align= 'center' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = 'https://github.com/morevishwa' target="_blank"> <img align= 'center' src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br>
 <br>
   <br>
-
-
-| ![Shivaji's  github stats](https://github-readme-stats.vercel.app/api?username=CodEsHiVaz&show_icons=true&theme=radical)             | ![Shivaji's  GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodEsHiVaz&theme=radical)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodEsHiVaz&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=CodEsHiVaz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
