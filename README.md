@@ -7,7 +7,7 @@
 
 
 [![Github](https://img.shields.io/github/followers/CodEsHiVaz?label=Follow&style=social)](https://github.com/CodEsHiVaz)
-<div size='20px'> Hi! My name is Shivaji. Thank You for taking the time to view my GitHub Profile :smile:
+<div size='20px'> Hi! My name is Vishwajeet. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
 
@@ -16,7 +16,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-👋 Hi, I’m Shivaji Zirpe
+👋 Hi, I’m Vishwajeet More
   
 👀 I’m interested in Web devolopment.
   
