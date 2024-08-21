@@ -46,9 +46,7 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
    &emsp;
      <img alt="GitHub Pages" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-&emsp; 
-    <img alt="chakra" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=black">
-   &emsp;
+&emsp;
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
      &emsp;
     <img alt="mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
@@ -73,8 +71,6 @@
 
 <p align="left">
   &emsp;
-    <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-  &emsp;
    <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"> 
   &emsp;
     <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
@@ -85,8 +81,6 @@
 
 <p align="left">
     &emsp;
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-&emsp;
   	<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 &emsp;
  </p>
@@ -108,8 +102,6 @@
         <img alt="ms office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
      &emsp;
         <img alt="zoom" src="https://img.shields.io/badge/NPM-%234ED1C5.svg?style=for-the-badge&logo=Npm&logoColor=black">
-    &emsp;
-          <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     &emsp;
 
 </p>
